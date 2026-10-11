@@ -1,16 +1,28 @@
-## Hi there 👋
+## Ahmed Trading — quant trader & bot builder
 
-<!--
-**tradingbotsbuilder/tradingbotsbuilder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Independent algo trader based in **Austin, Texas**. Originally from Dubai; came to America for university, stayed for the markets.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **MIT MS Financial Engineering** -> taught me to distrust shortcuts
+- - **Jump Trading** -> HFT systems, process discipline
+  - - **Alameda Research** -> DEX market making, speed
+    - - Now: building open-source trading infrastructure for **Polymarket Perps**
+     
+      - ### What I publish
+     
+      - Public notes with dated numbers, no signals, no promises:
+     
+      - - [Substack — trading notes](https://tradingbotsbuilder.substack.com)
+        - - [dev.to — engineering posts](https://dev.to/ahmedtrade)
+          - - [WordPress — perps notes](https://ahmedperpsnotes.wordpress.com)
+            - - [Ghost — margin mechanics](https://ahmed-perps-notes.ghost.io)
+              - - [Google Site — bot lab](https://sites.google.com/view/ahmed-trading-perps-bot-lab)
+                - - [About.me](https://about.me/tradingbotsbuilder)
+                  - - [Notion — Perps Guide](https://app.notion.com/Polymarket-Perps-Guide-3f6d16022fe2805191faed8418fbf6a1)
+                   
+                    - ### Featured repo
+                   
+                    - **[polymarket-mm-bot](https://github.com/tradingbotsbuilder/polymarket-mm-bot)** — production-grade market making and arbitrage bot for Polymarket Perps. MIT-licensed reference architecture: funding-rate tracking, cross/isolated margin, liquidation-aware risk engine.
+                   
+                    - > Everything here is engineering, not advice. Numbers drift; formulas mostly don't.
+                      >
+                      > *Last updated: October 2026.*
