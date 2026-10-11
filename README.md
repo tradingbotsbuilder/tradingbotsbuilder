@@ -26,3 +26,10 @@ Independent algo trader based in **Austin, Texas**. Originally from Dubai; came 
                     - > Everything here is engineering, not advice. Numbers drift; formulas mostly don't.
                       >
                       > *Last updated: October 2026.*
+
+
+## Live calculator
+
+Interactive risk calculators (funding rate, margins, withdrawal floor, liquidation price) are deployed as a Hugging Face Space:
+
+👉 [polymarket-perps-calculator](https://ahmedtrading90-polymarket-perps-calculator.static.hf.space/index.html)
