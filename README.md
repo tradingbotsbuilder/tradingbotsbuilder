@@ -33,3 +33,8 @@ Independent algo trader based in **Austin, Texas**. Originally from Dubai; came 
 Interactive risk calculators (funding rate, margins, withdrawal floor, liquidation price) are deployed as a Hugging Face Space:
 
 👉 [polymarket-perps-calculator](https://ahmedtrading90-polymarket-perps-calculator.static.hf.space/index.html)
+
+
+## 🌐 Research Hub
+
+Full research archive, bot architecture notes, and SDK guides: **[BrainResearchHub](https://brainresearchhub.net)** — independent Polymarket research collective (perps mechanics, SDK, security, access, withdrawals).
